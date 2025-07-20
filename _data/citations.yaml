@@ -1,264 +1,257 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.06.24.661379
+  title: <i>De novo</i>designed bright, hyperstable rhodamine binders for fluorescence
+    microscopy
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Yuda Chen
+  - Klaus Yserentant
+  - Kibeom Hong
+  - Yiming Kuang
+  - Arghya Bhowmick
+  - Arthur Charles-Orszag
+  - Samuel J. Lord
+  - Lei Lu
+  - Kaipeng Hou
+  - Samuel I. Mann
+  - Jonathan B. Grimm
+  - Luke D. Lavis
+  - R. Dyche Mullins
+  - William F. DeGrado
+  - Bo Huang
   publisher: Cold Spring Harbor Laboratory
   date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/g9tc5q
+  orcid: 0000-0001-7097-1505
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1126/science.adt7268
+  title: De novo design of porphyrin-containing proteins as efficient and stereoselective
+    catalysts
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Kaipeng Hou
+  - Wei Huang
+  - Miao Qi
+  - Thomas H. Tugwell
+  - Turki M. Alturaifi
+  - Yuda Chen
+  - Xingjie Zhang
+  - Lei Lu
+  - Samuel I. Mann
+  - Peng Liu
+  - Yang Yang
+  - William F. DeGrado
+  publisher: Science
+  date: '2025-05-08'
+  link: https://doi.org/g9mtd8
+  orcid: 0000-0001-7097-1505
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1021/jacs.4c07920
+  title: SuFEx Chemistry Enables Covalent Assembly of a 280-kDa 18-Subunit Pore-Forming
+    Complex
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Lee Schnaider
+  - Sophia Tan
+  - Pratik R. Singh
+  - Floriana Capuano
+  - Alistair J. Scott
+  - Richard Hambley
+  - Lei Lu
+  - Hyunjun Yang
+  - E. Jayne Wallace
+  - Hyunil Jo
+  - William F. DeGrado
+  publisher: Journal of the American Chemical Society
+  date: '2024-08-27'
+  link: https://doi.org/g8scdj
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adl5364
+  title: De novo design of drug-binding proteins with predictable binding energy and
+    specificity
+  authors:
+  - Lei Lu
+  - Xuxu Gou
+  - Sophia K. Tan
+  - Samuel I. Mann
+  - Hyunjun Yang
+  - Xiaofang Zhong
+  - Dimitrios Gazgalis
+  - "Jes\xFAs Valdiviezo"
+  - Hyunil Jo
+  - Yibing Wu
+  - Morgan E. Diolaiti
+  - Alan Ashworth
+  - Nicholas F. Polizzi
+  - William F. DeGrado
+  publisher: Science
+  date: '2024-04-05'
+  link: https://doi.org/g8n6h8
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jasms.0c00462
+  title: Mesh Fragmentation Improves Dissociation Efficiency in Top-down Proteomics
+  authors:
+  - Lei Lu
+  - Mark Scalf
+  - Michael R. Shortreed
+  - Lloyd M. Smith
+  publisher: Journal of the American Society for Mass Spectrometry
+  date: '2021-03-23'
+  link: https://doi.org/gkthmc
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.0c00838
+  title: Binary Classifier for Computing Posterior Error Probabilities in MetaMorpheus
+  authors:
+  - Michael R. Shortreed
+  - Robert J. Millikin
+  - Lei Liu
+  - Zach Rolfs
+  - Rachel M. Miller
+  - Leah V. Schaffer
+  - Brian L. Frey
+  - Lloyd M. Smith
+  publisher: Journal of Proteome Research
+  date: '2021-03-08'
+  link: https://doi.org/g8scdk
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.0c00407
+  title: 'Spritz: A Proteogenomic Database Engine'
+  authors:
+  - Anthony J. Cesnik
+  - Rachel M. Miller
+  - Khairina Ibrahim
+  - Lei Lu
+  - Robert J. Millikin
+  - Michael R. Shortreed
+  - Brian L. Frey
+  - Lloyd M. Smith
+  publisher: Journal of Proteome Research
+  date: '2020-09-23'
+  link: https://doi.org/gj3j82
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-020-00985-5
+  title: O-Pair Search with MetaMorpheus for O-glycopeptide characterization
+  authors:
+  - Lei Lu
+  - Nicholas M. Riley
+  - Michael R. Shortreed
+  - Carolyn R. Bertozzi
+  - Lloyd M. Smith
+  publisher: Nature Methods
+  date: '2020-10-26'
+  link: https://doi.org/ghhpr6
+  orcid: 0000-0001-7097-1505
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.18.102327
+  title: O-Pair Search with MetaMorpheus for O-glycopeptide Characterization
+  authors:
+  - Lei Lu
+  - Nicholas M. Riley
+  - Michael R. Shortreed
+  - Carolyn R. Bertozzi
+  - Lloyd M. Smith
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2020-05-20'
+  link: https://doi.org/g8scdm
+  orcid: 0000-0001-7097-1505
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1021/acs.analchem.8b04580
+  title: 'HOTMAQ: A Multiplexed Absolute Quantification Method for Targeted Proteomics'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Xiaofang Zhong
+  - Qinying Yu
+  - Fengfei Ma
+  - Dustin C. Frost
+  - Lei Lu
+  - Zhengwei Chen
+  - Henrik Zetterberg
+  - Cynthia Carlsson
+  - Ozioma Okonkwo
+  - Lingjun Li
+  publisher: Analytical Chemistry
+  date: '2019-01-04'
+  link: https://doi.org/gjb67s
+  orcid: 0000-0001-7097-1505
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1021/acs.jproteome.8b00141
+  title: Identification of MS-Cleavable and Noncleavable Chemically Cross-Linked Peptides
+    with MetaMorpheus
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Lei Lu
+  - Robert J. Millikin
+  - Stefan K. Solntsev
+  - Zach Rolfs
+  - Mark Scalf
+  - Michael R. Shortreed
+  - Lloyd M. Smith
+  publisher: Journal of Proteome Research
+  date: '2018-05-25'
+  link: https://doi.org/gdw4hn
+  orcid: 0000-0001-7097-1505
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: 10.1126/science.adl5364
+  title: De novo design of drug-binding proteins with predictable binding energy and
+    specificity
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
+  - Lei Lu
+  - Xuxu Gou
+  - Sophia K. Tan
+  - Samuel I. Mann
+  - Hyunjun Yang
+  - Xiaofang Zhong
+  - Dimitrios Gazgalis
+  - "Jes\xFAs Valdiviezo"
+  - Hyunil Jo
+  - Yibing Wu
+  - Morgan E. Diolaiti
+  - Alan Ashworth
+  - Nicholas F. Polizzi
+  - William F. DeGrado
+  publisher: Science
+  date: ''
+  link: https://doi.org/g8n6h8
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Drug binding protein design.
+  image: null
   buttons:
   - type: manubot
-    link: https://greenelab.github.io/meta-review/
+    link: https://www.science.org/doi/10.1126/science.adl5364#F1
   - type: source
     text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
+    link: null
   - type: website
     link: http://manubot.org/
   tags:
   - open science
   - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  repo: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: https://doi.org/10.1038/s41592-020-00985-5
+  title: O-Pair Search with MetaMorpheus for O-glycopeptide characterization
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Lei Lu
+  - Nicholas M. Riley
+  - Michael R. Shortreed
+  - Carolyn R. Bertozzi
+  - Lloyd M. Smith
+  publisher: Nature Methods
+  date: '2020-11-01'
+  link: https://www.nature.com/articles/s41592-020-00985-5
+  image: https://www.nature.com/articles/s41592-020-00985-5/figures/1
   plugin: sources.py
   file: sources.yaml
