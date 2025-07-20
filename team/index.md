@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incijkhjkkjbjt节课啦啦啦啦啦啦啦啦啦啦
+团队成员
 
 {% include section.html %}
 
@@ -17,9 +16,7 @@ incijkhjkkjbjt节课啦啦啦啦啦啦啦啦啦啦
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+欢迎有志之士加入我们!
 
 {% include section.html %}
 
