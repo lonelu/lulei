@@ -12,7 +12,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+从头设计药物、金属、聚糖、蛋白等结合蛋白 长期关注于蛋白结合各类分子的特性，利用数据库搜索的方法，结合新的蛋白设计工具，进行结合蛋白的设计与应用开发。
 
 {%
   include button.html
