@@ -1,9 +1,19 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 12
   tooltip: About our team
 ---
+
+# {% include icon.html icon="fa-solid fa-users" %}Team
+
+### Prof. Lei Lu. 
+
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
